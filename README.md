@@ -8,15 +8,22 @@ This project is to simplify the different classes in our economy and to track th
 
 any instance that holds legal right to possess
 
-#### market 
+##### market 
 
 institution that let the instances being exchanged by different actors who has the right to possess
 
-#### money `provide flow-ability to market`
+##### money 
+any state/tech-backed tokens that provides exchange-ability to market
 
-#### phisikas `anything can be touched and possibly combined with other/same class-instance to generate another instance` 
+#### phisikas 
 
-#### non-phisikas `anything cannot be touched but possibly be combined with other/same class-instance to generate another instance` 
+anything can be touched and possibly combined with other/same class-instance to generate another instance
 
-#### time `opportunity cost generator for every class instances - such as actor, money, phisikas and non-phisikas` 
+#### non-phisikas 
+
+anything cannot be touched but possibly be combined with other/same class-instance to generate another instance
+
+#### time 
+
+opportunity cost generator for every class instances - such as actor, money, phisikas and non-phisikas
 
