@@ -5,7 +5,8 @@
 
 ## About this Project
 
-This project is to simplify the different classes in our economy and to track the instances of those classes easily with simple code-blocks. 
+This project is to simplify the different component-classes of our global 
+economy and to track the instances of those compo-classes easily. 
 
 
 ## Trackees
