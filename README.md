@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="/assets/family.jpg" width="497" height="370">
+</p>
+
+
 ## About this Project
 
 This project is to simplify the different classes in our economy and to track the instances of those classes easily with simple code-blocks. 
