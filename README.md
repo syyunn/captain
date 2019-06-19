@@ -4,9 +4,13 @@ This project is to simplify the different classes in our economy and to track th
 
 ### Which to Track
 
-##### actor `any instance that holds legal right to possess`
+##### actor 
 
-#### market `institution that let the instances being exchanged by different actors who has the right to possess` 
+any instance that holds legal right to possess
+
+#### market 
+
+institution that let the instances being exchanged by different actors who has the right to possess
 
 #### money `provide flow-ability to market`
 
